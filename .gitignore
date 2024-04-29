@@ -127,3 +127,9 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+
+# idea project config
+**/.idea
+
+# node modules
+**/node_modules
